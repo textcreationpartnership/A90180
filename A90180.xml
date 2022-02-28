@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of His Excellency the Lord Marquis of Ormond Lord Deputy of Ireland, and Generall of all the forces in that kingdome for the King. Together with the Lord Inchequeene, and all the rest of the Kingdome; concerning the death of His Sacred Majesty, who was murdered at White-Hall, the 30. of Ianuary; by an usurped power of the Commons of England, as they call themselves. Likewise their intentions to crown Prince Charles King, and ingage in His quarrell against England. To which is added the reasons, which moved them to joyne with the Irish Rebles as they call them in England. Published by speciall command.</title>
+            <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90180</idno>
+            <idno type="STC">Wing O442</idno>
+            <idno type="STC">Thomason E544_13</idno>
+            <idno type="STC">ESTC R205996</idno>
+            <idno type="EEBO-CITATION">99865207</idno>
+            <idno type="PROQUEST">99865207</idno>
+            <idno type="VID">117444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117444)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E544[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of His Excellency the Lord Marquis of Ormond Lord Deputy of Ireland, and Generall of all the forces in that kingdome for the King. Together with the Lord Inchequeene, and all the rest of the Kingdome; concerning the death of His Sacred Majesty, who was murdered at White-Hall, the 30. of Ianuary; by an usurped power of the Commons of England, as they call themselves. Likewise their intentions to crown Prince Charles King, and ingage in His quarrell against England. To which is added the reasons, which moved them to joyne with the Irish Rebles as they call them in England. Published by speciall command.</title>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Corke in Ireland, and now reprinted,</publisher>
+                  <pubPlace>Cork :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:117444:1" rendition="simple:additions"/> THE DECLARATION OF His Excellency the Lord Marquis of ORMOND Lord Deputy of JRELAND, and Generall of all the Forces in that Kingdome for the KING.</p>
+            <p>Together with the Lord INCHEQVEENE, and all the reſt of the Kingdome; Concerning the Death of His Sacred MAJESTY, who was Murdered at
+<hi>White-Hall, the</hi> 30. <hi>of Ianuary;</hi> By an uſurped Power of the COMMONS of ENGLAND, as they call themſelves.</p>
+            <p>Likewiſe their Intentions to Crown Prince CHARLES King, and ingage in His Quarrell againſt ENGLAND.</p>
+            <p>To which is added the Reaſons, which moved them to joyne with the <hi>Iriſh</hi> Rebels as they Call them in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by ſpeciall Command.</hi>
+            </p>
+            <p>Printed at <hi>Corke</hi> in <hi>Ireland,</hi> and now reprinted, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:117444:2"/>
+            <pb n="1" facs="tcp:117444:2"/>
+            <head>THE DECLARATION, &amp;c.</head>
+            <p>FOraſmuch as we know and are aſcertained of the Tragick proceedings and treaſonable attempts put in practice by that rebellions Army of Sectaries now in England, and the Command of Baron <hi>Fairfax,</hi> who by Martiall power and contrary to their once pro<g ref="char:EOLhyphen"/>tended principles for which they did at firſt engage, which were to ſeate their Lawfull King upon his Throne, and make him a great and glorious Prince, and not to injure His Royall Perſon, and likewiſe to maintaine and defend the Priviledges of Parliament, and liberty of the Subject, unto which engagement they were ſworne, which Oath they have preſidiouſly broken by their excluding and ma<g ref="char:EOLhyphen"/>king the Major part of the houſe of Commons uncapable of the truſt repoſed in them by the reſpective Counties for whom they were choſen as Members, impriſoning ſome and denying others admittance alſo, diſabling the Lords for ever having any voice in Parliament, unleſſe they pleaſe to entertaine them into their Conventicle of Sectaries, who are not above forty or fifty at moſt which be now conſiderable with that perjur'd Army of Rebbels, and preſume to call themſelves the Commons of England, and pretend that the ſupreame power of the Kingdome is in herent in them (a thing before never heard of) by which like aſpiring <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they aſſume the power Legiſlative to make and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lawes. They have by this pretended and new found authority
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Court of Iudica<g ref="char:EOLhyphen"/>ture (as they <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it) which indeed is no other but <pb n="2" facs="tcp:117444:3"/> Conventicle of injuſtice and wicked treaſonable practiſes. By which pretended Court they like imperious proud and barbarous regicids, have preſumed to bring their Le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge Lord and gracious King to an illegall tryall, and contrary to all Law both of God and man, have condemned and tyranouſly laid violent hands on His Sacred Perſon, per<g ref="char:EOLhyphen"/>petrating Murder upon him without all or any juſt cauſe. O what a tyranicall cruelty was this! Acted upon their King &amp; Father of the Country is it poſſible they can think that God will let ſuch a infinit ſin ſlip without revenging his blood upon ſuch cruel murderers, who have made the<g ref="char:EOLhyphen"/>ſelves drunk with the innocent blood of their Soveraign and the beſt of K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, whoſe fervor and zeal to Peace and his Subjects good, was ever viſible even to his lateſt breath as may appear by his Declarations &amp; ſeveral Meſſages ſent to his two Houſes of Parliament, deſiring a Treaty with them, that all differences might be happily compoſed, and His three Kingdom, ſetled in Peace and Unity, which he with much deſiring at length procured to Treat with his two Houſes of Parliament, where his alacrity and inte<g ref="char:EOLhyphen"/>grity to Peace was made moſt plaine and manifeſt, for he was graciouſly pleaſed to yeild to all that was deſired, al<g ref="char:EOLhyphen"/>though to bind up his own hands and throw himſelfe in<g ref="char:EOLhyphen"/>to the laps of his own Subjects and to do what they ſhould think fit whereby to ſtop the bleeding o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his people in all three Kingdoms, but when every mans eyes were fixt of a concluſion of the Treaty and expected peace and his late Majeſties Conceſſions voted ſatisfactory and ſufficient to the grounds of peace and ſettlement and his late Majeſty thought he had been in ſafety, he was by ſome Arch tray<g ref="char:EOLhyphen"/>tors of that trecherous Army taken away from the Iſle of
+<hi>Wight,</hi> and His body hurryed from place to place, and at laſt unhumanely murdred by them, who of right ought to <pb n="3" facs="tcp:117444:3"/> have been his Subjects, and to have protected his Royall Per<g ref="char:EOLhyphen"/>ſon from violence.</p>
+            <p>And whereas they have ſince his late Majeſties death of fa<g ref="char:EOLhyphen"/>mous memory, by pretended Acts and Proclamations declared, that it ſhall be high-Treaſon for any one to Proclaim Prince <hi>Charles</hi> (who is now rightfull heyre to the Crown of <hi>England)</hi> to be King of great Brittaine without their approbation, which they have ſince manifeſted, ſhall not be granted by another Act of theirs, ſaying, the Office of Kings is chargeable and withall uſeleſſe amongſt them, therefore ought to be aboliſhed; which wicked and illegall practice of theirs is abominable and of right is to be ſhun'd by all true Subjects and good Chriſtians, who are bound by Conſcience and by their Oath of Allegiance to uſe their beſt endeavours to circumvent their conſultations and helliſh deſigne which tends only to the ſubverſion of Mo<g ref="char:EOLhyphen"/>narchy and ſetting up the rule and government of Democracy, by wrongfully expelling their lawfull King, and not giving to Caeſar thoſe things which be Caeſars, but keeping him in exile and baniſhment, and murder, rob and deſpoyle all his Loyall Subjects of their inheritance, by that unjuſt ſword which they have in their lawleſſe hands. It is not unknown to all the three Kingdoms our forwardneſſe, loves and affections to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> and what hazard we have divers times ſuſtain<g ref="char:EOLhyphen"/>ed in behalfe of it, both indangering our lives and fortunes to maintain its priviledges, but now we can acknowledge it no Parliament at all, neither King nor Lords being there, but only a few of the Commons houſe and whether thoſe rightly elect<g ref="char:EOLhyphen"/>ed or no, we are uncertain, but this we know, that at the death of the King, the Parliament is diſſolved untill the ſucceeding King have elected a new one. But ſo ſoone as we found and did perceive that they took ſeverall Oaths, Proteſtations, and the Covenant, meerely to make a noſe of wax of, and cheate the vulgar and meane people, deviating from their once (as it <pb n="4" facs="tcp:117444:4"/> ſeemes) onely pretended principles, and that by backſliding clandeſtine plots and trecherous deſignes, their ſole aime was to take away our late Kings life, who indeed we may boldly aſſirm, that for a vertuous liver, and Kingly parts, he was un<g ref="char:EOLhyphen"/>paralel'd there not having been his Peere for acute wit and ſolid judgement amongſt all his Royal predeceſſors in former ages. But what may we really ſay, he was too good to rule ſo ſinfull a people, therefore God in his high diſpleaſure hath taken him away, however we have a young Phoenix his Royall ſon
+<hi>Charles</hi> late Prince of <hi>Wales,</hi> whom we muſt acknowledge for our King, as we are bound by our Allegiance, ſo to do, and his Royall Cauſe we ſhall with our lives and fortunes proſecute, and with our ſwords endeavour to eſtabliſh him in deſpite of thoſe proud Rebbels who did ſo trayterouſly murder his late Father to ſatisfie their blood-thirſty appetites.</p>
+            <p>To ſatisfie all Chriſtian people of the Truce and Aſſocia<g ref="char:EOLhyphen"/>tion made between us and the Catholick <hi>Iriſh,</hi> we do declare (to ſtop the mouths of ſome who peradventure will endea<g ref="char:EOLhyphen"/>vour to lay falſe ſcandals upon us, calling us Papiſts, which is very well known, we were never of that Religion, but alwayes Proteſtants, as may an<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere by our proceedings againſt them, which may be a large teſtimony that we do not allow of their Profeſſion, nor will ever enlarge the Popes Dominions and Romiſh Hierarchy) the reaſon why we entred into League and confedenacy with them is as followeth, <hi>viz.</hi>
+            </p>
+            <p>We finding their reall intentions and often proteſted prin<g ref="char:EOLhyphen"/>ciples were to ſubmit and live under the ancient rule and Go<g ref="char:EOLhyphen"/>vernment of a King, and that it was never their deſire to live un<g ref="char:EOLhyphen"/>der any other, then our late deceaſed King <hi>Charles</hi> and his law<g ref="char:EOLhyphen"/>full ſucceſſor, and ſucceſſors who is the noble and illuſtrious Prince <hi>Charles</hi> now
+<hi>Charles</hi> the ſecond, and is by birth right to ſucceed his deceaſed Father. And that the only thing for which at firſt they did promote the <hi>Iriſh</hi> Wars was for no o<g ref="char:EOLhyphen"/>other <pb n="5" facs="tcp:117444:4"/> and but to preſerve the liberty of their conſciences which they were informed (by ſome cvill inſtruments) they ſhould be very ſuddenly deprived of, which made ſuch an impreſſion in them, that they were reſolved rather to hazard their lives, then prejudice their Conſciences, which they did beleeve all good Chriſtians ought to do. But for altering their Govern<g ref="char:EOLhyphen"/>ment, and rovolting from their and our King to make this Na<g ref="char:EOLhyphen"/>tion Subjects to the Pope (as it hath all along been ſuppoſed) was never their intentions more then to allow him ſupremacy in Eccleſiaſticall matters, which belong only to themſelves as ſome of the principles of their Religion. We having there<g ref="char:EOLhyphen"/>fore found in them ſo much integrity to the Kings cauſe, and ſo much willingneſſe to hazard their lives and fortunes for him (as becomes) true Subjects, we could not either in reaſon not conſcience but accept their offer injoyning with us to Crown and ſettle our lawfull King <hi>Charles</hi> the ſecond, who is now in a low condition kept from his Right of Inheritance by the baſeſt and meaneſt Mechanicks in all the Engliſh Nation, and alſo the worſt and deſperateſt Rebels that ever lookt upon the Sun, who durſt to act an open murder upon their gracious Soveraigne.</p>
+            <p>Wee hope what we have here expreſt concerning our Con<g ref="char:EOLhyphen"/>federacy and League with our fellow Subjects of <hi>Ireland,</hi> (will give any true ſubject or honeſt man ſatisfaction, and for Re<g ref="char:EOLhyphen"/>bels we care not) by whoſe aſſiſtance as an immediate meanes we doubt not to inthrowne our King and diſſolve that Rebell neſt fitting at <hi>Weſtm.</hi> who take ſo much authority upon them, affirming themſelves to be the higheſt Court of Indiceture up<g ref="char:EOLhyphen"/>on earth, when it is well knowne theres no Nobleman not ſcarce a Gent, amongſt them, but low bred fellowes and moſt of them men of broken fortunes, laying aſide what they have by injuſtice robd the Kingdome of and extorted from true and loyall Subjects.</p>
+            <p>Now to declare further what is our true and unfeigned Re<g ref="char:EOLhyphen"/>ſolutions, <pb facs="tcp:117444:5"/> and wherefore we doe ingage to prevent miſunder<g ref="char:EOLhyphen"/>ſtanding, and ſtop the mouthes of thoſe who would peradven<g ref="char:EOLhyphen"/>ture calumniate us with falſe aſperſions, blemiſh our inte<g ref="char:EOLhyphen"/>grity by lies and forgeries, and fained Chemera's of their own braine-ſick inventing) wee ſay upon the ſaith of Chriſtians that we have no other ends, but according to this Declarati<g ref="char:EOLhyphen"/>on to proſecure our allegiance, in furthering our
+<hi>Soveraignes</hi> cauſe, and the eſtabliſhing his <hi>Royall</hi> Perſon in the Domini<g ref="char:EOLhyphen"/>ous which did of right belong to his late Father.
+<hi>viz.</hi>
+            </p>
+            <p n="1">1. We will to the utmoſt of our power (as becomes loyall Subjects) endeavour to Crowne and ſettle our gracious King CHARLES the II. in all his three Kingdomes of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and to that end wee have advanced an Army for his ſaid Majeſties ſervice, and will hazzard our lives and fortunes, His Royall Perſon to defend and keepe againſt all violence, treaſonable and treacherous attempts, which may be by the Engliſh Rebels or any other at any time made againſt him, his Crowne, dignity, and Regall authority, or to the dimiſhing: of any of his Kingly titles by any pretended power of Parliament whatſoever.</p>
+            <p n="2">2ly, That wee doe not intend to introduce any Arbitrary Govern<g ref="char:EOLhyphen"/>ment which may inſlave our fellow Subjects of England, but onely to bring ſuch who be in Rebellion to due Obedience according as their allegiancebinds them to their naturall liege Lord and King.</p>
+            <p n="3">3ly, That we doe not intend to violate the fundamentall Lawes, and Conſtitutions of any the 3. Kingdomes, but ſhall be carefull to keep and preſerve them as the greateſt good belonging to all our fellow Subjects.</p>
+            <p n="4">4ly. We doe declare, that we will ever ſtand and be firmely and Re<g ref="char:EOLhyphen"/>ally for the true Proteſtant Religion, and ſhall not admit of any other Church government; likewiſe for the juſt Rights, Freedomes and Privi<g ref="char:EOLhyphen"/>ledges of Parliaments, when lawfully called and elected by His ſaid Majeſties Writ, as of right it ought to be, and to conſiſt of King, Lords, and Commons, as all precedent Ages hath done, and untill then wee hold all Authority of the Engliſh protended Parliament, to be uſurpa<g ref="char:EOLhyphen"/>tion, illegall, and not Parliamentall authority, but a Committee of Ad<g ref="char:EOLhyphen"/>jutators to plot and contrive treaſonable practices againſt their lawfull King, and his loyall Subjects.</p>
+            <p n="5">5. And laſtly, If there be any one amongſt them, who will (as by du<g ref="char:EOLhyphen"/>ty and allegeance bound) deſert thoſe wicked Robels, and timely re<g ref="char:EOLhyphen"/>paire to ſerve their King, they ſhall not only have pardon for their for<g ref="char:EOLhyphen"/>mer acts, but ſhall be accommodated according to their degrees and ſe<g ref="char:EOLhyphen"/>verall qualities.</p>
+            <closer>God ſave King CHARLES the II.</closer>
+            <trailer>Finis.</trailer>
+            <closer>
+               <signed>Ormond. Inchiqueene.</signed>
+            </closer>
+            <pb facs="tcp:117444:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
